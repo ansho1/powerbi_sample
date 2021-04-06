@@ -8,7 +8,6 @@ This repo also consists of another reports I created based on sales data importe
 
 Sample:
 
-![image](https://user-images.githubusercontent.com/67517199/112569137-a04a3600-8e09-11eb-93fe-3f3ea18fdb6d.png)
 
 ![image](https://user-images.githubusercontent.com/67517199/112569321-f9b26500-8e09-11eb-8fcb-eb61cae2a1dd.png)
 
